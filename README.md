@@ -164,6 +164,3 @@ Excel::import('/tmp/users.xlsx')
     });
 ```
 
-
-## License
-[The MIT License (MIT)](LICENSE).
